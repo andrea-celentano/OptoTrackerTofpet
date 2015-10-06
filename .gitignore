@@ -1,0 +1,10 @@
+#Ignore xilinks stuff
+Xilinx_LabTools_14.4_P.49d.3.0/*
+
+#ignore binaries
+*.o
+*.so
+
+#ignore backups
+*~
+

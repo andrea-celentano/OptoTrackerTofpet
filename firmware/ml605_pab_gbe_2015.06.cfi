@@ -1,0 +1,11 @@
+# PROMGEN: Xilinx Prom Generator P.20131013
+# Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+SOFTWARE_VERSION P.20131013
+DATE             6/25/2015 - 13:23
+SOURCE          /home/ricardo/PET-TOF/daqSystem/DAQ_v2/ml605_pab_gbe/prom/ml605_pab_gbe_2015.06.mcs
+DEVICE          32768K
+DATA_WIDTH      16
+FILL_DATA       0xFF
+SIGNATURE       0x73221F7B
+START_ADDRESS   0x00000000 END_ADDRESS 0x008CE03B DIRECTION_UP   "/home/ricardo/PET-TOF/daqSystem/DAQ_v2/ml605_pab_gbe/prom/ml605_pab_gbe_2015.06.bit" 6vlx240tff1156
