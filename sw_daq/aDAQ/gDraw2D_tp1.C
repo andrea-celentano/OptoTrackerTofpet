@@ -30,8 +30,8 @@
         g1->SetTitle("T resolution [LSB #sigma]");
         g1->GetXaxis()->SetTitle("vib1 [ADC]");
         g1->GetYaxis()->SetTitle("vbl [ADC]");
-	c->cd(1)->SetLogz();
-        g1->GetZaxis()->SetRangeUser(0.1, 10);
+	//c->cd(1)->SetLogz();
+        g1->GetZaxis()->SetRangeUser(0., 2);
         g1->Draw("COLZ");
         
 //        c->cd(2);
