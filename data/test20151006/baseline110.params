@@ -1,0 +1,240 @@
+--------------------
+-- DEFAULT PARAMS --
+--------------------
+
+Global{
+	"data_mode" : 1
+	"clk_o_en" : 1
+	"test_pattern" : 0
+	"sipm_idac_range" : 32
+	"disc_idac_dcstart" : 50
+	"test_pulse_en" : 0
+	"lvlshft" : 10
+	"fc_kf" : 0
+	"vib2" : 20
+	"tac_refresh" : 0
+	"tdc_tac" : 32
+	"count_intv" : 15
+	"veto_en" : 0
+	"fe_disc_ibias" : 20
+	"disc_idac_range" : 32
+	"tdc_iref" : 32
+	"comp_vcas" : 32
+	"fc_saturate" : 0
+	"fe_disc_vcas" : 42
+	"count_trig_err" : 0
+	"tdc_comp" : 32
+	"vib1" : 24
+	"tx_mode" : 0
+	}
+
+Channel{
+	"sh" : 3
+	"enable" : 1
+	"g0" : 3
+	"latch_cfg" : 0
+	"meta_cfg" : 1
+	"d_E" : 7
+	"cgate_cfg" : 0
+	"sync" : 1
+	"fe_tmjitter" : 0
+	}
+
+------------------------
+-- NON-DEFAULT PARAMS --
+------------------------
+\maxASIC0.Global{
+	"sipm_idac_dcstart" : 43
+	"ddr_mode" : 1
+	"postamp" : 41
+	}
+
+ASIC0.ChAll{
+	"vth_T" : 15
+	"vth_E" : 15
+	"praedictio" : 0
+	"deadtime" : 3
+	BASELINE : 0
+	}
+
+\maxASIC1.Global{
+	"ddr_mode" : 1
+	"postamp" : 47
+	}
+
+ASIC1.ChAll{
+	"vth_T" : 15
+	"vth_E" : 15
+	"praedictio" : 0
+	"deadtime" : 3
+	BASELINE : 0
+	}
+
+\maxASIC2.Global{
+	"sipm_idac_dcstart" : 51
+	"ddr_mode" : 1
+	"postamp" : 43
+	}
+
+ASIC2.ChAll{
+	"vth_T" : 15
+	"vth_E" : 15
+	"praedictio" : 0
+	"deadtime" : 3
+	BASELINE : 0
+	}
+
+\maxASIC3.Global{
+	"sipm_idac_dcstart" : 47
+	"ddr_mode" : 1
+	"postamp" : 36
+	}
+
+ASIC3.ChAll{
+	"vbl" : 46
+	"vth_T" : 15
+	"vth_E" : 15
+	"praedictio" : 0
+	"deadtime" : 3
+	BASELINE : 0
+	}
+
+
+--------------------------------------
+-- CONFIGURATION and BASELINE FILES --
+--------------------------------------
+
+HVDAC File: config/pab1/hvdac.Config
+ASIC0 Configuration File: config/M1/asic.config
+ASIC1 Configuration File: config/M1/asic.config
+ASIC2 Configuration File: config/M2/asic.config
+ASIC3 Configuration File: config/M2/asic.config
+ASIC4 Configuration File: Default Configuration
+ASIC5 Configuration File: Default Configuration
+ASIC6 Configuration File: Default Configuration
+ASIC7 Configuration File: Default Configuration
+ASIC8 Configuration File: Default Configuration
+ASIC9 Configuration File: Default Configuration
+ASIC10 Configuration File: Default Configuration
+ASIC11 Configuration File: Default Configuration
+ASIC12 Configuration File: Default Configuration
+ASIC13 Configuration File: Default Configuration
+ASIC14 Configuration File: Default Configuration
+ASIC15 Configuration File: Default Configuration
+ASIC16 Configuration File: Default Configuration
+ASIC17 Configuration File: Default Configuration
+ASIC18 Configuration File: Default Configuration
+ASIC19 Configuration File: Default Configuration
+ASIC20 Configuration File: Default Configuration
+ASIC21 Configuration File: Default Configuration
+ASIC22 Configuration File: Default Configuration
+ASIC23 Configuration File: Default Configuration
+ASIC24 Configuration File: Default Configuration
+ASIC25 Configuration File: Default Configuration
+ASIC26 Configuration File: Default Configuration
+ASIC27 Configuration File: Default Configuration
+ASIC28 Configuration File: Default Configuration
+ASIC29 Configuration File: Default Configuration
+ASIC30 Configuration File: Default Configuration
+ASIC31 Configuration File: Default Configuration
+ASIC32 Configuration File: Default Configuration
+ASIC33 Configuration File: Default Configuration
+ASIC34 Configuration File: Default Configuration
+ASIC35 Configuration File: Default Configuration
+ASIC36 Configuration File: Default Configuration
+ASIC37 Configuration File: Default Configuration
+ASIC38 Configuration File: Default Configuration
+ASIC39 Configuration File: Default Configuration
+ASIC40 Configuration File: Default Configuration
+ASIC41 Configuration File: Default Configuration
+ASIC42 Configuration File: Default Configuration
+ASIC43 Configuration File: Default Configuration
+ASIC44 Configuration File: Default Configuration
+ASIC45 Configuration File: Default Configuration
+ASIC46 Configuration File: Default Configuration
+ASIC47 Configuration File: Default Configuration
+ASIC48 Configuration File: Default Configuration
+ASIC49 Configuration File: Default Configuration
+ASIC50 Configuration File: Default Configuration
+ASIC51 Configuration File: Default Configuration
+ASIC52 Configuration File: Default Configuration
+ASIC53 Configuration File: Default Configuration
+ASIC54 Configuration File: Default Configuration
+ASIC55 Configuration File: Default Configuration
+ASIC56 Configuration File: Default Configuration
+ASIC57 Configuration File: Default Configuration
+ASIC58 Configuration File: Default Configuration
+ASIC59 Configuration File: Default Configuration
+ASIC60 Configuration File: Default Configuration
+ASIC61 Configuration File: Default Configuration
+ASIC62 Configuration File: Default Configuration
+ASIC63 Configuration File: Default Configuration
+ASIC0 Baseline File: None
+ASIC1 Baseline File: None
+ASIC2 Baseline File: None
+ASIC3 Baseline File: None
+ASIC4 Baseline File: None
+ASIC5 Baseline File: None
+ASIC6 Baseline File: None
+ASIC7 Baseline File: None
+ASIC8 Baseline File: None
+ASIC9 Baseline File: None
+ASIC10 Baseline File: None
+ASIC11 Baseline File: None
+ASIC12 Baseline File: None
+ASIC13 Baseline File: None
+ASIC14 Baseline File: None
+ASIC15 Baseline File: None
+ASIC16 Baseline File: None
+ASIC17 Baseline File: None
+ASIC18 Baseline File: None
+ASIC19 Baseline File: None
+ASIC20 Baseline File: None
+ASIC21 Baseline File: None
+ASIC22 Baseline File: None
+ASIC23 Baseline File: None
+ASIC24 Baseline File: None
+ASIC25 Baseline File: None
+ASIC26 Baseline File: None
+ASIC27 Baseline File: None
+ASIC28 Baseline File: None
+ASIC29 Baseline File: None
+ASIC30 Baseline File: None
+ASIC31 Baseline File: None
+ASIC32 Baseline File: None
+ASIC33 Baseline File: None
+ASIC34 Baseline File: None
+ASIC35 Baseline File: None
+ASIC36 Baseline File: None
+ASIC37 Baseline File: None
+ASIC38 Baseline File: None
+ASIC39 Baseline File: None
+ASIC40 Baseline File: None
+ASIC41 Baseline File: None
+ASIC42 Baseline File: None
+ASIC43 Baseline File: None
+ASIC44 Baseline File: None
+ASIC45 Baseline File: None
+ASIC46 Baseline File: None
+ASIC47 Baseline File: None
+ASIC48 Baseline File: None
+ASIC49 Baseline File: None
+ASIC50 Baseline File: None
+ASIC51 Baseline File: None
+ASIC52 Baseline File: None
+ASIC53 Baseline File: None
+ASIC54 Baseline File: None
+ASIC55 Baseline File: None
+ASIC56 Baseline File: None
+ASIC57 Baseline File: None
+ASIC58 Baseline File: None
+ASIC59 Baseline File: None
+ASIC60 Baseline File: None
+ASIC61 Baseline File: None
+ASIC62 Baseline File: None
+ASIC63 Baseline File: None
+
+-------------
+-- HV BIAS --
+-------------
+

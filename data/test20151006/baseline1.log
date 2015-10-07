@@ -1,0 +1,360 @@
+
+#################### RUN 1 ##########################
+
+
+############ ASIC 0: Postamp = 48 ############
+Mean threshold: 0.000000 +/- 0.000000
+Mean threshold error: 100.000000 +/- 0.000000 
+Min and Max threshold values: 0.000000  0.000000
+Min and Max threshold error values: 100.000000  100.000000
+Number of channels without baseline determined: 64
+
+
+############ ASIC 1: Postamp = 48 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 55.827661 +/- 0.507843
+Mean threshold error: 1.177118 +/- 1.216041 
+Min and Max threshold values: 54.877804  57.385178
+Min and Max threshold error values: 0.010179  3.204157
+Number of channels without baseline determined: 0
+
+
+############ ASIC 2: Postamp = 48 ############
+Mean threshold: 62.258381 +/- 0.479758
+Mean threshold error: 0.126698 +/- 0.193259 
+Min and Max threshold values: 61.500057  63.473221
+Min and Max threshold error values: 0.010074  0.987746
+Number of channels without baseline determined: 0
+
+
+############ ASIC 3: Postamp = 48 ############
+Mean threshold: 0.000000 +/- 0.000000
+Mean threshold error: 100.000000 +/- 0.000000 
+Min and Max threshold values: 0.000000  0.000000
+Min and Max threshold error values: 100.000000  100.000000
+Number of channels without baseline determined: 64
+
+#################### RUN 2 ##########################
+
+
+############ ASIC 0: Postamp = 45 ############
+Mean threshold: 60.032595 +/- 0.647106
+Mean threshold error: 0.286771 +/- 0.486369 
+Min and Max threshold values: 57.540100  61.474247
+Min and Max threshold error values: 0.010181  3.309957
+Number of channels without baseline determined: 0
+
+
+############ ASIC 1: Postamp = 48 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 55.947250 +/- 0.543190
+Mean threshold error: 0.864845 +/- 1.083167 
+Min and Max threshold values: 54.882015  57.474319
+Min and Max threshold error values: 0.010631  3.192052
+Number of channels without baseline determined: 0
+
+
+############ ASIC 2: Postamp = 47 ############
+Mean threshold: 60.013248 +/- 0.543921
+Mean threshold error: 0.505752 +/- 0.541704 
+Min and Max threshold values: 59.500000  61.345196
+Min and Max threshold error values: 0.010071  1.765665
+Number of channels without baseline determined: 0
+
+
+############ ASIC 3: Postamp = 45 ############
+Mean threshold: 1.966630 +/- 10.950151
+Mean threshold error: 96.882010 +/- 17.360273 
+Min and Max threshold values: 0.000000  63.474724
+Min and Max threshold error values: 0.010848  100.000000
+Number of channels without baseline determined: 62
+
+#################### RUN 3 ##########################
+
+
+############ ASIC 0: Postamp = 44 ############
+Mean threshold: 58.455805 +/- 0.465798
+Mean threshold error: 0.222426 +/- 0.283767 
+Min and Max threshold values: 57.476185  60.487831
+Min and Max threshold error values: 0.010173  1.628197
+Number of channels without baseline determined: 0
+
+
+############ ASIC 1: Postamp = 48 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 55.904451 +/- 0.754745
+Mean threshold error: 0.927629 +/- 1.061541 
+Min and Max threshold values: 54.947262  60.090862
+Min and Max threshold error values: 0.010002  5.000000
+Number of channels without baseline determined: 0
+
+
+############ ASIC 2: Postamp = 46 ############
+Mean threshold: 59.024814 +/- 0.443844
+Mean threshold error: 0.281281 +/- 0.393095 
+Min and Max threshold values: 58.159069  60.476616
+Min and Max threshold error values: 0.010035  1.760123
+Number of channels without baseline determined: 0
+
+
+############ ASIC 3: Postamp = 43 ############
+Mean threshold: 61.114819 +/- 0.540627
+Mean threshold error: 0.189281 +/- 0.380204 
+Min and Max threshold values: 59.500000  62.461430
+Min and Max threshold error values: 0.010589  2.440980
+Number of channels without baseline determined: 0
+
+#################### RUN 4 ##########################
+
+
+############ ASIC 0: Postamp = 43 ############
+Mean threshold: 57.509919 +/- 0.954690
+Mean threshold error: 0.152463 +/- 0.230826 
+Min and Max threshold values: 55.983208  60.474281
+Min and Max threshold error values: 0.010634  1.142583
+Number of channels without baseline determined: 0
+
+
+############ ASIC 1: Postamp = 48 ############
+Mean threshold: 56.046820 +/- 0.701730
+Mean threshold error: 1.059137 +/- 1.297144 
+Min and Max threshold values: 55.474331  58.476410
+Min and Max threshold error values: 0.010108  3.324599
+Number of channels without baseline determined: 0
+
+
+############ ASIC 2: Postamp = 45 ############
+Mean threshold: 58.094323 +/- 0.483901
+Mean threshold error: 0.146411 +/- 0.203686 
+Min and Max threshold values: 56.474327  59.253803
+Min and Max threshold error values: 0.010078  0.786490
+Number of channels without baseline determined: 0
+
+
+############ ASIC 3: Postamp = 42 ############
+Mean threshold: 59.149326 +/- 7.469518
+Mean threshold error: 1.729118 +/- 12.384407 
+Min and Max threshold values: 0.000000  61.720161
+Min and Max threshold error values: 0.010017  100.000000
+Number of channels without baseline determined: 1
+
+#################### RUN 5 ##########################
+
+
+############ ASIC 0: Postamp = 42 ############
+Mean threshold: 56.175090 +/- 0.712160
+Mean threshold error: 0.161291 +/- 0.323467 
+Min and Max threshold values: 53.849083  58.568291
+Min and Max threshold error values: 0.010508  1.943501
+Number of channels without baseline determined: 0
+
+
+############ ASIC 1: Postamp = 47 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 54.116014 +/- 0.642552
+Mean threshold error: 0.503391 +/- 0.645026 
+Min and Max threshold values: 52.692261  57.158848
+Min and Max threshold error values: 0.010045  1.865216
+Number of channels without baseline determined: 0
+
+
+############ ASIC 2: Postamp = 44 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 55.969095 +/- 0.511328
+Mean threshold error: 0.436770 +/- 0.604163 
+Min and Max threshold values: 55.396576  57.254322
+Min and Max threshold error values: 0.010631  3.294551
+Number of channels without baseline determined: 0
+
+
+############ ASIC 3: Postamp = 41 ############
+Mean threshold: 58.409772 +/- 0.690104
+Mean threshold error: 0.779050 +/- 0.907874 
+Min and Max threshold values: 57.332722  59.483032
+Min and Max threshold error values: 0.010243  4.715978
+Number of channels without baseline determined: 0
+
+#################### RUN 6 ##########################
+
+
+############ ASIC 0: Postamp = 41 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 54.363784 +/- 0.551439
+Mean threshold error: 0.183930 +/- 0.278862 
+Min and Max threshold values: 52.913769  55.862183
+Min and Max threshold error values: 0.010008  1.154380
+Number of channels without baseline determined: 0
+
+
+############ ASIC 1: Postamp = 47 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 52.771178 +/- 0.479314
+Mean threshold error: 1.413881 +/- 1.347922 
+Min and Max threshold values: 52.474339  54.935078
+Min and Max threshold error values: 0.010036  4.991461
+Number of channels without baseline determined: 0
+
+
+############ ASIC 2: Postamp = 44 ############
+Mean threshold: 56.031072 +/- 0.456063
+Mean threshold error: 0.459915 +/- 0.663563 
+Min and Max threshold values: 54.942455  56.529743
+Min and Max threshold error values: 0.010041  1.866289
+Number of channels without baseline determined: 0
+
+
+############ ASIC 3: Postamp = 40 ############
+Mean threshold: 57.900811 +/- 0.424004
+Mean threshold error: 0.421453 +/- 0.555557 
+Min and Max threshold values: 57.476597  58.985626
+Min and Max threshold error values: 0.010001  2.401625
+Number of channels without baseline determined: 0
+
+#################### RUN 7 ##########################
+
+
+############ ASIC 0: Postamp = 41 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 54.324373 +/- 0.562369
+Mean threshold error: 0.180518 +/- 0.300584 
+Min and Max threshold values: 52.930149  56.200218
+Min and Max threshold error values: 0.010090  1.265872
+Number of channels without baseline determined: 0
+
+
+############ ASIC 1: Postamp = 47 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 53.025003 +/- 0.669301
+Mean threshold error: 0.983563 +/- 1.325942 
+Min and Max threshold values: 52.474339  55.460674
+Min and Max threshold error values: 0.010003  3.572675
+Number of channels without baseline determined: 0
+
+
+############ ASIC 2: Postamp = 43 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 54.178873 +/- 0.546954
+Mean threshold error: 0.411701 +/- 0.663891 
+Min and Max threshold values: 53.474335  55.475510
+Min and Max threshold error values: 0.010277  2.372386
+Number of channels without baseline determined: 0
+
+
+############ ASIC 3: Postamp = 39 ############
+Mean threshold: 57.038575 +/- 0.410755
+Mean threshold error: 0.346041 +/- 0.531566 
+Min and Max threshold values: 55.793819  57.476288
+Min and Max threshold error values: 0.010001  1.860739
+Number of channels without baseline determined: 0
+
+#################### RUN 8 ##########################
+
+
+############ ASIC 0: Postamp = 41 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 54.318121 +/- 0.518440
+Mean threshold error: 0.204545 +/- 0.320252 
+Min and Max threshold values: 52.859322  56.166821
+Min and Max threshold error values: 0.010016  1.326277
+Number of channels without baseline determined: 0
+
+
+############ ASIC 1: Postamp = 47 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 52.997558 +/- 0.646840
+Mean threshold error: 0.869131 +/- 1.238291 
+Min and Max threshold values: 52.474339  55.100952
+Min and Max threshold error values: 0.010009  3.560382
+Number of channels without baseline determined: 0
+
+
+############ ASIC 2: Postamp = 43 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 54.173937 +/- 0.460427
+Mean threshold error: 0.474392 +/- 0.872750 
+Min and Max threshold values: 53.258865  55.295918
+Min and Max threshold error values: 0.010627  4.321108
+Number of channels without baseline determined: 0
+
+
+############ ASIC 3: Postamp = 38 ############
+Mean threshold: 56.572917 +/- 0.697814
+Mean threshold error: 0.213457 +/- 0.278999 
+Min and Max threshold values: 55.472450  57.474319
+Min and Max threshold error values: 0.010629  1.358980
+Number of channels without baseline determined: 0
+
+#################### RUN 9 ##########################
+
+
+############ ASIC 0: Postamp = 41 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 54.361363 +/- 0.598050
+Mean threshold error: 0.265690 +/- 0.484375 
+Min and Max threshold values: 52.679745  56.173378
+Min and Max threshold error values: 0.010535  2.997234
+Number of channels without baseline determined: 0
+
+
+############ ASIC 1: Postamp = 47 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 52.864496 +/- 0.522879
+Mean threshold error: 1.161808 +/- 1.296150 
+Min and Max threshold values: 52.474339  55.306679
+Min and Max threshold error values: 0.010099  4.530685
+Number of channels without baseline determined: 0
+
+
+############ ASIC 2: Postamp = 43 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 55.098173 +/- 0.430639
+Mean threshold error: 0.405092 +/- 0.831877 
+Min and Max threshold values: 54.010941  55.474663
+Min and Max threshold error values: 0.010627  3.917073
+Number of channels without baseline determined: 0
+
+
+############ ASIC 3: Postamp = 37 ############
+Mean threshold: 56.653271 +/- 1.210971
+Mean threshold error: 0.101429 +/- 0.375043 
+Min and Max threshold values: 53.532215  58.474312
+Min and Max threshold error values: 0.010535  2.547301
+Number of channels without baseline determined: 0
+
+#################### RUN 10 ##########################
+
+
+############ ASIC 0: Postamp = 41 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 54.317388 +/- 0.552466
+Mean threshold error: 0.266055 +/- 0.587973 
+Min and Max threshold values: 53.029266  56.107880
+Min and Max threshold error values: 0.010554  4.287076
+Number of channels without baseline determined: 0
+
+
+############ ASIC 1: Postamp = 47 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 53.061124 +/- 0.676004
+Mean threshold error: 1.079819 +/- 1.409245 
+Min and Max threshold values: 52.474339  55.228756
+Min and Max threshold error values: 0.010251  3.562213
+Number of channels without baseline determined: 0
+
+
+############ ASIC 2: Postamp = 43 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 54.245307 +/- 0.503986
+Mean threshold error: 0.308167 +/- 0.517107 
+Min and Max threshold values: 53.474335  55.870522
+Min and Max threshold error values: 0.010490  2.466377
+Number of channels without baseline determined: 0
+
+
+############ ASIC 3: Postamp = 36 ############
+############  !!!!CONVERGED!!!!! ###########
+Mean threshold: 55.649559 +/- 0.818335
+Mean threshold error: 0.122492 +/- 0.196671 
+Min and Max threshold values: 53.213009  56.811733
+Min and Max threshold error values: 0.010000  0.978016
+Number of channels without baseline determined: 0
