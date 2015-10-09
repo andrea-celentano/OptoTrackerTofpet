@@ -161,7 +161,7 @@ args = parser.parse_args()
 
         
 T = 6.25E-9
-root_file = args.OutputFile
+root_file = args.OutputFile+".root"
 n_iter=args.nIter
 
 dir_path=os.path.dirname(root_file)

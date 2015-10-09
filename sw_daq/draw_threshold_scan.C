@@ -92,7 +92,15 @@ void draw_threshold_scan(Int_t maxAsics, bool Save = false)
 		f->SetParameter(0, max);	f->SetParLimits(0, 0.8*max, 1.01*max);
 		f->SetParameter(1, maxJ-0.5);	f->SetParLimits(1, firstAboveZeroJ-1.5, 64);
 		f->SetParameter(2, 0.02);	f->SetParLimits(2, 0.01, 5.0);
-		h->Fit("cdf", "", "", 32, maxJ+0.25);
+		h->Fit("cdf", "Q", "", 32, maxJ+0.25);
+		TCanvas *c2;
+		if (Save) {
+		  c2=new TCanvas("c2","c2");
+		  h->SetTitle(Form("%d_%d",C/64,C%64));
+		  h->Draw();
+		  if (i==1) c2->SaveAs("/tmp/baseline_dummy.pdf(");
+		  else c2->SaveAs("/tmp/baseline_dummy.pdf");
+		}
 		Float_t x0 = f->GetParameter(1);
 		Float_t x0_e = f->GetParError(1);
 		Float_t sigma = f->GetParameter(2);
@@ -147,7 +155,7 @@ void draw_threshold_scan(Int_t maxAsics, bool Save = false)
 	hFile->Write();
 	
 	if(Save){
-		  c1->SaveAs("/tmp/baseline_dummy.pdf");
+		  c1->SaveAs("/tmp/baseline_dummy.pdf)");
 		  exit();
 	}
 }
